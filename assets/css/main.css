@@ -101,9 +101,10 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #5d5d5d;
+		color: #ffffff;
 		font-size: 14pt;
 		line-height: 1.75em;
+		background-color: #3c5a98;
 	}
 
 	strong, b {
@@ -1819,7 +1820,7 @@ input, select, textarea {
 
 		ul.dates li {
 			position: relative;
-			border-top: solid 1px #ddd;
+			border-top: solid 1px rgb(48, 230, 24);
 			padding: 1.3em 0 1.3em 6.75em;
 		}
 
@@ -1828,7 +1829,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 1.3em;
-			background-color: #d52349;
+			background-color: #e77f96;
 			height: 3.5em;
 			text-align: center;
 			color: #fff;
@@ -2290,7 +2291,7 @@ input, select, textarea {
 
 	#footer {
 		position: relative;
-		color: #858484;
+		color: #2fdd72;
 		padding: 4em 0;
 	}
 
@@ -2321,8 +2322,8 @@ input, select, textarea {
 		#footer ul.contact li,
 		#footer ul.dates li,
 		#footer ul.divided li {
-			border-top-color: #353434;
-			border-top-color: rgba(255, 255, 255, 0.05);
+			border-top-color: #3ed319;
+			border-top-color: rgba(66, 238, 14, 0.05);
 		}
 
 		#footer header {
@@ -2630,7 +2631,7 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				color: #858484;
+				color: #5fdf15;
 				background-image: url("images/bg02.png");
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
